@@ -1,2 +1,7 @@
-# TodoApp-FlutterFlow
-Kyle Mard's Todo App - CSC305
+# To Do App
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
